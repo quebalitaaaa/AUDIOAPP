@@ -1,0 +1,4 @@
+[
+  { "titulo": "Nombre que se verá", "archivo": "cancion1.mp3" },
+  { "titulo": "Otra canción", "archivo": "cancion2.mp3" }
+]
