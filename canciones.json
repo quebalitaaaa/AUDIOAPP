@@ -1,4 +1,10 @@
 [
-  { "titulo": "Nombre que se verá", "archivo": "cancion1.mp3" },
-  { "titulo": "Otra canción", "archivo": "cancion2.mp3" }
+  { "titulo": "Zora's Domain - Day (The Legend of Zelda_ Breath of the Wild OST)", "archivo": "Zora's Domain - Day (The Legend of Zelda_ Breath of the Wild OST).mp3" },
+  { "titulo": "Mario & Luigi Bowser's Inside Story Soundtrack - Plack Beach (Inside Bowser)", "archivo": "Mario & Luigi Bowser's Inside Story Soundtrack - Plack Beach (Inside Bowser).mp3" }
+  { "titulo": "Hollow_Knight_OST_-_Greenpath", "archivo": "Hollow_Knight_OST_-_Greenpath.mp3" },
+  { "titulo": "Tarrey Town - Married (The Legend of Zelda_ Breath of the Wild OST)", "archivo": "Tarrey Town - Married (The Legend of Zelda_ Breath of the Wild OST).mp3" }
+  { "titulo": "Donkey Kong Country - Aquatic Ambience", "archivo": "Donkey Kong Country - Aquatic Ambience [Restored].mp3" },
+  { "titulo": "Hollow Knight OST - Fog Canyon", "archivo": "Hollow Knight OST - Fog Canyon V2.mp3" }
+  { "titulo": "Chrono-Trigger-Resurrection", "archivo": "Chrono-Trigger-Resurrection-SnapYT.App.mp3" }
+
 ]
